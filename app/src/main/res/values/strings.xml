@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVI Demo</string>
+    <string name="enter_keyword">Input keyword</string>
+    <string name="it_looks_like_that_s_it">…it looks like that\'s it! :)</string>
+    <string name="no_more_results">No more results.</string>
+    <string name="search">search</string>
+</resources>
